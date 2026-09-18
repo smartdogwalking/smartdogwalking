@@ -4,6 +4,12 @@ I build research tools and practical AI workflows. My focus is making complex in
 
 ## Selected projects
 
+### [Accord Institute](https://github.com/smartdogwalking/accord-institute)
+
+A source-linked review workspace for real-estate joint-venture agreements. Accord maps funding, deadlock, removal, and transfer mechanisms into structured findings, exact source passages, and contractual dependencies, while keeping reviewer corrections separate from generated analysis.
+
+The single-user application encrypts saved work locally; generating analysis sends extracted text to the OpenAI API. The repository includes Markdown guidance, 23 synthetic/mocked tests, and [scoped audit notes](https://github.com/smartdogwalking/accord-institute/blob/main/docs/AUDIT.md). It is an evaluation build, not an independently validated legal-research product or firm-ready service.
+
 ### [Umbern](https://github.com/smartdogwalking/umbern)
 
 A completed experimental research build, developed under the working name Follow the Money. The public showcase includes entity resolution, source-linked assertions, bounded traversal, and a deterministic SEC subsidiary parser. Seven offline tests and a synthetic demo make the published behavior reproducible without credentials.
