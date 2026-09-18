@@ -14,4 +14,10 @@ Further product development was discontinued after an existing solution was foun
 
 The showcase uses synthetic data and excludes the private application, databases, credentials, and source caches. Development was AI-assisted; the repository documents the provenance and scope of the published code.
 
+### [OutLaw](https://github.com/smartdogwalking/outlaw)
+
+An experimental law-school study workspace, initially scaffolded with Mocha and developed with AI assistance. Its local-only demo pairs a fictional rule and fact pattern with a deterministic analysis-structure checklist. Nine synthetic tests, frontend/worker type checks, and a production build make the current release reproducible.
+
+OutLaw is not a validated exam predictor or legal-advice service. Service-backed workflows remain experimental, and the repository distinguishes static study examples from working integrations.
+
 Development is AI-assisted. The published showcase explains its implementation, provenance, verification, and limitations. Other builds are being reviewed for publication; private research, client-facing data, and licensed game assets are not included in the public showcase.
