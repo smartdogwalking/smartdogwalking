@@ -1,12 +1,14 @@
 # Maxwell D'Andrea
 
-I build research tools and practical AI workflows, with an interest in making complex information traceable and useful.
+I build research tools and practical AI workflows. My focus is making complex information traceable: preserving sources, validating inputs, and keeping documented facts separate from inference.
 
 ## Selected projects
 
 ### [Umbern](https://github.com/smartdogwalking/umbern)
 
-An evidence-backed research graph developed under the working name Follow the Money. The public showcase includes runnable graph-engine code, conservative entity resolution, provenance and validation, bounded traversal, a deterministic SEC parser, and seven offline tests.
+My main research project: an evidence-backed graph developed under the working name Follow the Money. The public showcase includes entity resolution, source-linked assertions, bounded traversal, and a deterministic SEC subsidiary parser. Seven offline tests and a synthetic demo make the published behavior reproducible without credentials.
+
+[Review the engineering walkthrough](https://github.com/smartdogwalking/umbern/blob/main/docs/REVIEW_GUIDE.md) to follow the design decisions from research concern to implementation and test.
 
 The showcase uses synthetic data and excludes the private application, databases, credentials, and source caches. Development was AI-assisted; the repository documents the provenance and scope of the published code.
 
